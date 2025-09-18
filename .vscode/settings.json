@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "algorithm": "c",
+        "header.h": "c",
+        "random": "c",
+        "view_details.h": "c",
+        "string.h": "c",
+        "change_price.h": "c"
+    }
+}
